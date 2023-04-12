@@ -1,4 +1,25 @@
-## Hi there 👋
+# AbareAI
+
+Welcome to the AbareAI github page 👋
+
+
+## Current Projects
+* WhatsApp ChatBot -- https://abareai.com
+* ImaginenChat -- https://imaginenchat.abareai.com/
+* Fake News Detection
+* Impostor Game
+* Help Content Conversational Search
+
+
+## Who are we
+We are a very small team of experienced engineers and engineering managers. 
+With decades of experience from both Facebook and Meta.
+We're passionate about AI, LLMs, GPT, LangChain, etc. 
+Currently we're using our experience in the software industry to develop new experiences and experiment with these new exciting technologies.
+
+## Contact
+At the moment, you can reach us at admin@abareai.com or on [@abaresmartbot](https://twitter.com/AbareSmartBot)
+
 
 <!--
 
