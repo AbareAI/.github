@@ -7,7 +7,7 @@ Welcome to the AbareAI github page 👋
 | Title | Description | Links |
 |-------|-------------|-------|
 | WhatsApp ChatBot | An AI based bot for WhatsApp. |  https://abareai.com | 
-| ImaginenChat | Chat with characters from your favorite movies and TV shows | https://imaginenchat.abareai.com/ | 
+| Imagine Chat | Chat with characters from your favorite movies and TV shows | https://imaginenchat.abareai.com/ | 
 | Fake News Detection | Tools for automatic detection and contextualization of fake news via messaging apps (WhatsApp, Telegram, etc) |
 | Impostor Game | A fun game to play with your friends to detect who is an AI and who is a human. Think Among Us but using the power of AI and LLMs. |
 | Private Content Conversational Search | Index your company help files to provide contextual conversational help to your customers |
