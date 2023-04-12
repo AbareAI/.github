@@ -4,11 +4,13 @@ Welcome to the AbareAI github page 👋
 
 
 ## Current Projects
-* WhatsApp ChatBot -- https://abareai.com
-* ImaginenChat -- https://imaginenchat.abareai.com/
-* Fake News Detection
-* Impostor Game
-* Help Content Conversational Search
+| Title | Description | Links |
+|-------|-------------|-------|
+| WhatsApp ChatBot | An AI based bot for WhatsApp. |  https://abareai.com | 
+| ImaginenChat | Chat with characters from your favorite movies and TV shows | https://imaginenchat.abareai.com/ | 
+| Fake News Detection | Tools for automatic detection and contextualization of fake news via messaging apps (WhatsApp, Telegram, etc) |
+| Impostor Game | A fun game to play with your friends to detect who is an AI and who is a human. Think Among Us but using the power of AI and LLMs. |
+| Private Content Conversational Search | Index your company help files to provide contextual conversational help to your customers |
 
 
 ## Who are we
@@ -18,7 +20,7 @@ We're passionate about AI, LLMs, GPT, LangChain, etc.
 Currently we're using our experience in the software industry to develop new experiences and experiment with these new exciting technologies.
 
 ## Contact
-At the moment, you can reach us at admin@abareai.com or on [@abaresmartbot](https://twitter.com/AbareSmartBot)
+At the moment, you can reach us at admin@abareai.com or [@abaresmartbot](https://twitter.com/AbareSmartBot)
 
 
 <!--
